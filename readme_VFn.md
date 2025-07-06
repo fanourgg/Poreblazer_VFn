@@ -43,7 +43,7 @@ and VF4. For the previous examples these values are (see the output files):
     VF3: 2.678  
     VF4: 6.381
 
-- `README_mod.md` — this file describing the modifications
+- `README_VFn.md` — this file describing the modifications
 
 ### Notes
 
